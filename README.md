@@ -1,2 +1,2 @@
 # Scratch
-Hier poste ich meine Scratchprojekte
+Hier poste ich meine Scratchprojekte.
